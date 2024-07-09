@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-basics",
+  "name": "nodejs-hw-01",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -17,7 +17,7 @@
     "remove-last": "node src/scripts/removeLastContact.js"
   },
   "keywords": [],
-  "author": "Alexander Repeta <a.repeta@goit.global>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
